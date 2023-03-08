@@ -20,3 +20,4 @@ main()
 
 print("hi")
 print("yes")
+print("bel")
